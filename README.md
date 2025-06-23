@@ -1,1 +1,3 @@
-# powerbi_projects
+# Analysing custommer churn in Power BI
+
+## Table of contents
