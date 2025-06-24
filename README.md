@@ -1,4 +1,6 @@
-# Analysing custommer churn in Power BI
+# Analysing customer churn in Power BI
+
+Analysing customer churn for a telecom company named Databel.
 
 ## Table of Contents  
 [Project Overview](#project-overview)  
