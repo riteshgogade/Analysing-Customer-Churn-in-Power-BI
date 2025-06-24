@@ -13,6 +13,8 @@ Customer churn is the rate of customers leaving the business. This Power BI proj
 
 ### Data Sources
 
+Dataset of customer churn data containing Customer demographics (age, gender, location), Account information (length, contract type), Service usage (monthly charges, services subscribed), Churn status
+
 [Databel-Data.csv](https://github.com/riteshgogade/Analysing-Customer-Churn-in-Power-BI/blob/main/Databel%20-%20Data.csv)
 
 ### Data Transformation
@@ -22,7 +24,7 @@ Customer churn is the rate of customers leaving the business. This Power BI proj
 
 ### Findings
 1. Month-to-month contracts have the highest churn rate of 51%.
-2. Customers older than 60 show higher churn of 30% and keep on increasing gradually through age.
+2. Customers older than 60 show higher churn of 30% and it keeps on increasing gradually through age.
 3. Non-group contracts have more churn of 32% against 6% of group contracts.
 4. Monthly contract with paper check payment method has highest churn of 57% and lowest average contract length of 8 months while yearly contract with credit card payment have highest average contract length of 46 months and lowest churn of 4%.
 5. Customers with monthly payment contracts with direct debit had on average 1.4 calls per customer.
