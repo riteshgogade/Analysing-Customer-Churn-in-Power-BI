@@ -4,15 +4,15 @@
 [Project Overview](#project-overview)  
 [Data Sources](#data-sources)  
 [Data Transformation](#data-transformation)  
-[Findings](#findings)  
-[Insights](#insights)
+[Findings](#findings)
+[Recommendations](#Recommendations)
 
 ### Project Overview
 Customer churn is the rate of customers leaving the business. This Power BI project focuses on analyzing customer churn patterns to help businesses understand why customers leave and identify opportunities for retention.
 
 ### Data Sources
 
-
+[Databel-Data.csv](https://github.com/riteshgogade/Analysing-Customer-Churn-in-Power-BI/blob/main/Databel%20-%20Data.csv)
 
 ### Data Transformation
 1. Removal of duplicate customer records.
