@@ -35,7 +35,8 @@ Dataset of customer churn data containing Customer demographics (age, gender, lo
 ### Recommendations
 1. Urging customers to other contract types (1 year, 2 year) might reduce churn.
 2. Payment mathod for direct debit monthly contracts might have solve some problem leading to higher customer calls.
-3. Customers from California can be contacted for finding out churn reason or more marketing campaigns can be encouraged in the state.
+3. Customers with limited data plan should be informed about add-ons for data or switch to unlimited plan.
+4. Customers from California can be contacted for finding out churn reason or more marketing campaigns can be encouraged in the state.
 
 ### Limitations
 The data is static in nature and does not showcase how customers left business wrt time. 
